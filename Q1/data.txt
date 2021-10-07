@@ -1,0 +1,26 @@
+We cannot solve our problems with the same thinking we used when we created them.
+-Albert Einstein
+
+I love this quote, I'm not sure about the resource but I like what actually this quote means.
+Sometimes that means stopping and not working on the problem. Sometimes it means throwing out assumptions. Sometimes it means redefining the problem. but key point is if you are not getting solution to problem in certain time then that means you should change your way of thinking, change your perspective. 
+this way of thinking help me a lot when I lost in solving some problem, because at the end not only solution matters but the time to solve that problem also matters.
+
+About me
+    I'm currently pursuing Mtech from *IIIT Hyderabad* in CSE program, but I want to share my journey to IIITH
+
+    I started my journey or I would say the first achievement by getting admission in JNV Rampura, I did my schooling from there. then I took one year gap to prepare for JEE , I got 30100 AIR in JEE 
+    with this rank I got selected in *IET DAVV* , I did my BE from this collage and along with my collage I started preparing for GATE , but I shocked when I see my result because I was expecting I can get about 1000 AIR in worst case but I landed up with 4200 AIR,
+    So I started preparing for PGEE and hard work paid off and got seat in IIITH ,but the time between GATE result and PGEE result was very tough for me but one think I know that if I failed then one thing is sure that I have to change the way I prepare for GATE , and this mindset help me a lot . 
+    
+
+
+
+---------------------------------------------
+
+Dishanjali App:
+ Dishanjali is a social welfare organization. The aim of Dishanjali is to teach child which are belong to poor background, which not have good opportunity to learn in big schools. So for that Dishanjali have coordinator for all center and there are 5 to 6 people under each coordinator which are responsible for teaching students. so the problem is to manage all this things and digitalize all coordinator, center , attendance and all. so for that I have created two apps one for admin and other for coordinator and other user so that it is easy to manage all things by admin
+    For development I used Android studio as IDE and firebase as database 
+
+Hisaab app:
+    Hisaab app is an app to keep track of daily expenditures and also have option to manage how much money is borrowed or given by lend and borrow options.
+    The techstack I used for this is Android studio as an IDE and for maintain records I used Firebase database

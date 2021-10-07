@@ -1,0 +1,70 @@
+.nav{
+    position: fixed;
+    padding: 2%;
+    top: 0;
+    width: 100%;
+    height: auto;
+    text-align: right;
+    background: linear-gradient(rgb(250, 246, 247),rgb(177, 173, 174));
+}
+.nav ul li{
+    
+    list-style: none;
+    display: inline-block;
+    margin-right: 8%;
+}
+.nav ul li a{
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+#home_section{
+    display: block;
+    position: relative;
+    top: -200px;
+    visibility: hidden;
+}
+div a{
+    display: block;
+    position: relative;
+    top: -150px;
+    visibility: hidden;
+}
+.fix_head{
+    position: fixed;
+    width: 100%;
+    top:0;
+    
+}
+body{
+    max-width: 100%;
+    margin: 4%;
+    
+}
+
+section{
+    left: 0px;
+    margin-bottom:30px;
+}
+.image{
+    width: 30%;
+    border-radius: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.19) ;
+}
+section div img{
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 30%;
+    
+}
+section .alt{
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
