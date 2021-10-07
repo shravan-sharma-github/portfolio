@@ -1,0 +1,161 @@
+header nav{
+    position: fixed;
+    padding: 1%;
+    top: 0;
+    width: 100%;
+    height: auto;
+    text-align: right;
+    background: linear-gradient(rgb(250, 246, 247),rgb(177, 173, 174));
+}
+header nav ul li{
+    
+    list-style: none;
+    display: inline-block;
+    margin-right: 8%;
+}
+header nav ul li a{
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    font-size: auto;
+}
+header nav ul li a:hover{
+    color: rgb(40, 83, 177);
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+#home_section{
+    display: flex;
+}
+
+#home_section > div{
+    flex: 1;
+}
+
+#home_section .profile{
+    flex: 0.3;
+    width: 30%;
+    border-radius: 30%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: auto;
+    
+}
+
+#home_section .content{
+    display: flex;
+    flex-direction: column;
+    margin: 10%;
+}
+#home_section .content h4{
+    width: 100%;
+    justify-content: start;
+    align-items: flex-end;
+}
+
+#home_section .profile img{
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 30%;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.19) ;
+}
+
+#home_section .profile h3,h5,h6{
+    text-align: center;
+}
+
+#projects_section .dishanjali_app{
+    display: flex;   
+}
+
+#projects_section .dishanjali_app > div{
+    flex: 1;
+}
+#projects_section .content{
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+}
+#projects_section .dishanjali_app .dishanjali_image img{
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 30%;
+}
+
+#projects_section .dishanjali_app .dishanjali_image{
+    flex: 0.3;
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: auto;
+}
+
+#projects_section .padding{
+    width: 100%;
+    margin-top: 200px;
+}
+
+#projects_section .hisaab_app{
+    display: flex;   
+}
+
+#projects_section .hisaab_app > div{
+    /* display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center; */
+    flex: 1;
+
+}
+#projects_section .hisaab_app .hisaab_image img{
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 30%;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.685) ;
+}
+
+#projects_section .hisaab_app .hisaab_image{
+    flex: 0.3;
+    width: 30%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: auto;
+}
+
+#contact_section{
+    display: flex;
+    margin: 15%;
+}
+#contact_section>table{
+    width: 100%;
+    padding: 10%;
+    border: 5px solid rgb(151, 136, 136);
+    border-radius: 20%;
+    
+}
+#contact_section>table>tr>td,th{
+    width: 100%;
+}
+#contact_section .left_table{
+    padding: 5px;
+}
+#contact_section .or{
+    padding:10px;
+}
+
+
+
+#time{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 18px;
+}
